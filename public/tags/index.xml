@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Research Questions and Answers</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Research Questions and Answers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Oct 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chinese</title>
+      <link>/tags/chinese/</link>
+      <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github Theme</title>
+      <link>/tags/github-theme/</link>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/github-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Highlight Code</title>
+      <link>/tags/highlight-code/</link>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/highlight-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Gallery</title>
+      <link>/tags/image-gallery/</link>
+      <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/image-gallery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pagination</title>
+      <link>/tags/pagination/</link>
+      <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pagination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qgis</title>
+      <link>/tags/qgis/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/qgis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social</title>
+      <link>/tags/social/</link>
+      <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag Plugins</title>
+      <link>/tags/tag-plugins/</link>
+      <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tag-plugins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>/tags/tags/</link>
+      <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>/tags/test/</link>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

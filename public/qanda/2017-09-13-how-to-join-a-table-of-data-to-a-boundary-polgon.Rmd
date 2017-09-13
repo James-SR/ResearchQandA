@@ -1,0 +1,17 @@
+---
+title: How to join a table of data to a boundary (polgon)
+author: James and Jayne
+date: '2017-09-13'
+slug: how-to-join-a-table-of-data-to-a-boundary-polgon
+categories:
+  - QandA
+tags:
+  - QGIS
+output:
+  blogdown::html_page:
+    toc: true
+    fig_width: 6
+    dev: "svg"
+---
+
+This is a test post

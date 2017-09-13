@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QandAs on Research Questions and Answers</title>
+    <link>/qanda/</link>
+    <description>Recent content in QandAs on Research Questions and Answers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/qanda/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to join a table of data to a boundary (polgon)</title>
+      <link>/qanda/how-to-join-a-table-of-data-to-a-boundary-polgon/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/qanda/how-to-join-a-table-of-data-to-a-boundary-polgon/</guid>
+      <description>This is a test post</description>
+    </item>
+    
+  </channel>
+</rss>
