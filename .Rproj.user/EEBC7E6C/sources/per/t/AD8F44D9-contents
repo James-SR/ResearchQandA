@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Fira Sans';
+    font-style:  normal;
+    font-weight: 400;
+    src:         local('Fira Sans'), local('FiraSans'), url(https://github.com/mozilla/Fira/blob/master/ttf/FiraSans-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Fira Sans';
+    font-style:  normal;
+    font-weight: 700;
+    src:         local('Fira Sans Bold'), local('FiraSans-Bold'), url(https://github.com/mozilla/Fira/blob/master/ttf/FiraSans-Regular.ttf) format('truetype');
+}
+
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:300,300i,400,700,700i&subset=cyrillic,cyrillic-ext,latin-ext');

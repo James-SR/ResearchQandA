@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1505297424174.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1241870201",
+    "id" : "3391AF92",
+    "lastKnownWriteTime" : 1506401001,
+    "last_content_update" : 1506401001424,
+    "path" : "~/GitHub/ResearchQandA/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "191,12",
+        "scrollLine" : "165"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
